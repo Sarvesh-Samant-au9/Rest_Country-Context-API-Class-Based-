@@ -1,0 +1,2 @@
+export const ALL_COUNTRIES = "ALL_COUNTRIES";
+export const DETAILED_COUNTRY = "DETAILED_COUNTRY";
